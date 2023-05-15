@@ -1,4 +1,4 @@
-# Mini Project: Sudoku Solver Design and Analysis
+# Sudoku Solver Design and Analysis
 
 This project involves the design, analysis, and implementation of a Sudoku solver. The solver's objective is to efficiently solve Sudoku puzzles of varying difficulty levels while minimizing computation time, memory consumption, and early detection of failing paths.
 
